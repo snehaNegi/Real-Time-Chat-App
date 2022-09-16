@@ -34,4 +34,10 @@ Added Client sided JavaScript for the purpose of playing with Document Object Mo
 all the DOM elements are stored  in  respectives JS variable.
 
 Server Side JavaScript used to handle the Socket IO connections.
+
+
+## Chatbox Image
+
+![alt text](https://github.com/snehaNegi/Real-Time-Chat-App/blob/main/chatBox.png)
+
  
